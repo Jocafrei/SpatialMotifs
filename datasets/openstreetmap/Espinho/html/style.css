@@ -1,0 +1,17 @@
+.subgraphs {
+    display: grid;
+    grid-template-columns: 800px 800px;
+}
+
+.subgraph {
+    border-style: solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: xx-large;
+}
